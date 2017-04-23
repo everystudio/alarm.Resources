@@ -53,8 +53,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   config_params: []
   companyName: EveryStudio
-  productName: "\u840C\u3048\u30AD\u30E3\u30E9\u6642\u8A08\uFF5E\u6625\u54B2\u7531\u4F50\u7DE8"
-  bundleIdentifier: jp.everystudio.alarm.school.harusaki
+  productName: "\u840C\u3048\u30AD\u30E3\u30E9\u6642\u8A08\uFF5E\u661F\u540D\u7D17\u5E0C\u7DE8"
+  bundleIdentifier: jp.everystudio.alarm.school.hoshina
   bundleVersion: 1.0.0
   bundleVersionCode: 100
   buildNumber: 100
